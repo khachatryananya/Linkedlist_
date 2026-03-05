@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Linkedlist_/Linkedlist_.csproj" />
+  <Project Path="MyStackTesting/MyStackTesting.csproj" Id="3e7b40c7-1bb1-4594-96f5-049324692900" />
+  <Project Path="PostfixProject/PostfixProject.csproj" Id="d249b1bd-7f50-47c2-8b70-1f1c2edc7e11" />
 </Solution>
